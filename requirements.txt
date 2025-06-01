@@ -1,0 +1,8 @@
+streamlit
+pandas
+prophet
+neuralprophet
+plotly
+scikit-learn
+numpy
+statsmodels
